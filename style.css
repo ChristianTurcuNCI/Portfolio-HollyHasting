@@ -1,13 +1,15 @@
-.card{
-    margin-left: auto;
-    margin-right: auto;
-
-	
-}
-
 h1{
 	text-align: center;
-	color: red;
+	color: black;
+}
+
+.person{
+	margin-left: auto;
+    margin-right: auto;
+}
+
+hr{
+	border: 1.5px solid black;
 }
 
 .col-sm-12{
@@ -21,11 +23,6 @@ h1{
 	
 }
 
-.col-sm-3{
-	color: aqua;
-	
-}
-
 .btt{
 	color: aqua;
 }
@@ -33,7 +30,6 @@ h1{
 table{
 	color: 	black;
 	width: 400px;
-	margin-left: auto;
     margin-right: auto;
 }
 
@@ -54,11 +50,5 @@ table, th, td{
 
 th, td{
 	padding: 10px;
-	
-}
-
-caption{
-	text-align: center;
-	color: red;
 	
 }
